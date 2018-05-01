@@ -12,17 +12,22 @@ Simple script written in NodeJs that allows you to parse google spreadsheet to J
 
 ## Getting Started
 
-`yarn install`
+```
+yarn install
+```
 
-`node index.js *remember to replace sheetId with your own sheetId*`
+## Usage
 
 ```
-!important! allow to access your sheet by link
+node index.js
 ```
+
+* **!important!** allow to access your sheet by link
+* *remember to replace sheetId with your own sheetId*
 
 ## Authors
 
-* **Szymon Grącki** - [sgracki](https://github.com/sgracki)
+* [sgracki](https://github.com/sgracki)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
