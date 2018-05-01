@@ -1,0 +1,1 @@
+var scrap = require('./scrap')(`1_1dd-5FsJO6_9BZF1dPDk96SMfzKIr7BdIM5xAEfc50`);
