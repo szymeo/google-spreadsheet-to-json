@@ -1,8 +1,9 @@
 # Google spreadsheet to JSON
+@sgracki mi to ukradł i podpina się pod autora (ps serio
+ps2 to plejstejszyn)
+Skrypt napisany w NODEjs - prasuje, składa i pierze ubrania
 
-Simple script written in NodeJs that allows you to parse google spreadsheet to JSON.
-
-*Sample google spreadsheet*
+*przykładowy spridshit*
 
 ![sample gSheet](samplesheet.png)
 
@@ -27,7 +28,7 @@ node index.js
 
 ## Authors
 
-* [sgracki](https://github.com/sgracki)
+* [bartingo](https://github.com/Bartingo)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
